@@ -22,7 +22,7 @@ Os códigos presentes aqui são voltados para:
 
 - Os códigos podem ser simples ou básicos
 - Podem conter erros, já que fazem parte do processo de aprendizado
-- Este repositório não tem foco em projetos finais, mas sim na evolução contínua7
+- Este repositório não tem foco em projetos finais, mas sim na evolução contínua
 
 ---
 
